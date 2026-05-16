@@ -1,2 +1,5 @@
 # Shooter-Game
-My first ever fully working game with VS Code
+FIRST EVER UPLOAD AND FULLY WORKING GAME
+
+MADE WITH VS CODE
+2026-05-16
